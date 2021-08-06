@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Arnav-Portfolio-React/static/css/main.19d99cda.chunk.css",
+    "main.js": "/Arnav-Portfolio-React/static/js/main.690e88d4.chunk.js",
+    "main.js.map": "/Arnav-Portfolio-React/static/js/main.690e88d4.chunk.js.map",
+    "runtime-main.js": "/Arnav-Portfolio-React/static/js/runtime-main.431df788.js",
+    "runtime-main.js.map": "/Arnav-Portfolio-React/static/js/runtime-main.431df788.js.map",
+    "static/js/2.a0ed29a8.chunk.js": "/Arnav-Portfolio-React/static/js/2.a0ed29a8.chunk.js",
+    "static/js/2.a0ed29a8.chunk.js.map": "/Arnav-Portfolio-React/static/js/2.a0ed29a8.chunk.js.map",
+    "static/js/3.976f7d49.chunk.js": "/Arnav-Portfolio-React/static/js/3.976f7d49.chunk.js",
+    "static/js/3.976f7d49.chunk.js.map": "/Arnav-Portfolio-React/static/js/3.976f7d49.chunk.js.map",
+    "index.html": "/Arnav-Portfolio-React/index.html",
+    "static/css/main.19d99cda.chunk.css.map": "/Arnav-Portfolio-React/static/css/main.19d99cda.chunk.css.map",
+    "static/js/2.a0ed29a8.chunk.js.LICENSE.txt": "/Arnav-Portfolio-React/static/js/2.a0ed29a8.chunk.js.LICENSE.txt",
+    "static/media/dsc.png": "/Arnav-Portfolio-React/static/media/dsc.397756b4.png",
+    "static/media/e-kart.png": "/Arnav-Portfolio-React/static/media/e-kart.058b1a20.png",
+    "static/media/facebook.png": "/Arnav-Portfolio-React/static/media/facebook.5c2a3fec.png",
+    "static/media/github.png": "/Arnav-Portfolio-React/static/media/github.6c75ee05.png",
+    "static/media/instagram.png": "/Arnav-Portfolio-React/static/media/instagram.a2846405.png",
+    "static/media/key.png": "/Arnav-Portfolio-React/static/media/key.d632bd8f.png",
+    "static/media/linkedin.png": "/Arnav-Portfolio-React/static/media/linkedin.64b8a789.png",
+    "static/media/me.png": "/Arnav-Portfolio-React/static/media/me.f69fbf5d.png",
+    "static/media/muck-in.png": "/Arnav-Portfolio-React/static/media/muck-in.9d48a0c8.png",
+    "static/media/resume.pdf": "/Arnav-Portfolio-React/static/media/resume.9d1f6b8d.pdf",
+    "static/media/twitter.png": "/Arnav-Portfolio-React/static/media/twitter.63f38a44.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.431df788.js",
+    "static/js/2.a0ed29a8.chunk.js",
+    "static/css/main.19d99cda.chunk.css",
+    "static/js/main.690e88d4.chunk.js"
+  ]
+}
